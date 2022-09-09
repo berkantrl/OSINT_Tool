@@ -1,0 +1,11 @@
+JotformAPIClient
+JotForm.APIClient
+NewJotFormAPIClient
+com.jotform.api
+jotform.options
+jotform-api-php
+com.jotform.api._
+com.jotform.api.samples
+jotform.options({
+jotform.getForms()
+$jotformAPI 
